@@ -1,0 +1,18 @@
+{
+	"name": "com.huntergoodin.customfields.Editor",
+	"rootNamespace": "HunterGoodin.CustomFields",
+	"references": [
+		"com.huntergoodin.customfields.Runtime"
+	],
+	"includePlatforms": [
+		"Editor"
+	],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": false
+}
