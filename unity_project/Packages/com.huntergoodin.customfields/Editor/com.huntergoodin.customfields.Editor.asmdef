@@ -1,10 +1,12 @@
 {
-	"name": "com.yourcompany.packagename.Runtime",
-	"rootNamespace": "YourCompany.PackageName",
+	"name": "com.huntergoodin.customfields.Editor",
+	"rootNamespace": "HunterGoodin.CustomFields",
 	"references": [
-	 	"Unity.TextMeshPro"
+		"com.huntergoodin.customfields.Runtime"
 	],
-	"includePlatforms": [],
+	"includePlatforms": [
+		"Editor"
+	],
 	"excludePlatforms": [],
 	"allowUnsafeCode": false,
 	"overrideReferences": false,
